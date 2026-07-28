@@ -2,7 +2,7 @@
 
 AI/ML engineer specializing in computer vision, applied deep learning, and secure systems. B.Tech in Computer Science Engineering (AI & ML), St. Peter's Engineering College, Hyderabad — 2026.
 
-[LinkedIn](http://www.linkedin.com/in/ashreethreddy) · [Email](mailto:your.email@example.com)
+[LinkedIn](http://www.linkedin.com/in/ashreethreddy) · [Email](mailto:ashreethreddy7@gmail.com)
 
 ---
 
